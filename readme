@@ -1,0 +1,12 @@
+//Projeto de game sidecroller basico, a principio 1 fase somente com saltos - mecanica basica inspirada em Mario World
+
+//using System;
+
+//public class Program {
+    //public static void Main(string[] args) {
+        //Console.WriteLine("Hello C#!");
+    //}
+//}
+// o codigo a cima é um exemplo basico de um programa em C# que imprime "Hello C#!" no console.
+
+// o uso de linguagem C# se dá por ser uma linguagem orientada a objetos, de fácil aprendizado e com boa performance para games 2D.
