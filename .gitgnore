@@ -1,3 +1,4 @@
+
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python
 
@@ -173,6 +174,10 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -192,4 +197,8 @@ pyrightconfig.json
 .history
 .ionide
 
+
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
